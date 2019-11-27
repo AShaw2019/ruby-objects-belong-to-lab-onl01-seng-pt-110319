@@ -1,4 +1,5 @@
 class Artist 
 attr_accessor :Artist
 
-def initialize 
+def initialize(artist)
+  
